@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shubhayang6/Leetcode_daily/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Shubhayang6/Leetcode_daily/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Shubhayang6/Leetcode_daily/tree/master/0217-contains-duplicate) |
+| [2058-concatenation-of-array](https://github.com/Shubhayang6/Leetcode_daily/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shubhayang6/Leetcode_daily/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Shubhayang6/Leetcode_daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shubhayang6/Leetcode_daily/tree/master/0242-valid-anagram) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Shubhayang6/Leetcode_daily/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
